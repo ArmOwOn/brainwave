@@ -5,8 +5,10 @@ import Hero from "./components/Hero";
 const App = () => {
   return (
     <>
-      <Header />
-      <Hero />
+      <div className="className=pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
+        <Header />
+        <Hero />
+      </div>
       <ButtonGradient />
     </>
   );
