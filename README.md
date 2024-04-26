@@ -1,6 +1,6 @@
 # Modern UI/UX website using ReactJS & TailwindCSS
 
-[Live Site](https://game-hub-nu-lake.vercel.app)
+[Live Site](https://brainwave-ie5k9ixq7-armowons-projects.vercel.app)
 
 ![App Screenshot](./screenshots/screenshot.png)
 
